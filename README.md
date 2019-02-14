@@ -1,5 +1,7 @@
 # Machine Learning with TikZ
 
+[![DOI](https://zenodo.org/badge/170655034.svg)](https://zenodo.org/badge/latestdoi/170655034)
+
 ## Requirements
 
 * LuaTeX, Version 0.95.0
