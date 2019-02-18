@@ -12,6 +12,17 @@
 * Font TeX Gyre Heros
 * Font TeX Gyre Termes Math
 
+## BibTeX
+
+    @misc{Ochoa2019_2564739,
+      author = {Luis A. Ochoa},
+      title  = {Machine Learning wih TikZ},
+      month  = feb,
+      year   = 2019,
+      doi    = {10.5281/zenodo.2564739},
+      url    = {https://doi.org/10.5281/zenodo.2564739}
+    }
+
 ## Build
 
     make build
